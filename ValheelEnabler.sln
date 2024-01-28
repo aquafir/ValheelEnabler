@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34511.98
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValheelEnabler", "ValheelEnabler\ValheelEnabler.csproj", "{5D4D02F8-D01D-4237-A13D-3FAD3251D403}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D4D02F8-D01D-4237-A13D-3FAD3251D403}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D4D02F8-D01D-4237-A13D-3FAD3251D403}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D4D02F8-D01D-4237-A13D-3FAD3251D403}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D4D02F8-D01D-4237-A13D-3FAD3251D403}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BB1D1568-BC15-469D-BC2A-4E206CD9CD94}
+	EndGlobalSection
+EndGlobal
